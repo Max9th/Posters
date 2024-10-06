@@ -1,0 +1,378 @@
+#group {
+  position: absolute;
+  left: 819px;
+  top: 90px;
+  width: 2480px;
+  height: 3615px;
+}
+
+#bk {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 2480px;
+  height: 3508px;
+  background: linear-gradient(180deg, #f84100 0%, #f9d213 100%);
+  background-blend-mode: normal;
+}
+
+#text2 {
+  position: absolute;
+  left: 109px;
+  top: 2310px;
+  width: 2272px;
+  height: 1305px;
+}
+
+#heat {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 791px;
+  height: 1188px;
+}
+
+#paracombat {
+  position: absolute;
+  left: 23px;
+  top: 548px;
+  width: 768px;
+  height: 640px;
+  color: #ffffff;
+  font-family: Afacad;
+  font-size: 52px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#pararemiss {
+  position: absolute;
+  left: 0px;
+  top: 434.98px;
+  width: 766px;
+  height: 94px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+  text-align: right;
+}
+
+#factoryIma {
+  position: absolute;
+  left: 164px;
+  top: 0px;
+  width: 439px;
+  height: 435.37px;
+}
+
+#closeWindo {
+  position: absolute;
+  left: 435px;
+  top: 233.05px;
+  width: 185px;
+  height: 183.47px;
+}
+
+#group {
+  position: absolute;
+  left: 848px;
+  top: 32.73px;
+  width: 804px;
+  height: 1185.26px;
+}
+
+#governosee {
+  position: absolute;
+  left: 0px;
+  top: 545.61px;
+  width: 804px;
+  height: 639.65px;
+  color: #ffffff;
+  font-family: Afacad;
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#apoiarpolt {
+  position: absolute;
+  left: 124px;
+  top: 350px;
+  width: 557px;
+  height: 188px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#politician {
+  position: absolute;
+  left: 209px;
+  top: 0px;
+  width: 387px;
+  height: 383.8px;
+}
+
+#reforestat {
+  position: absolute;
+  left: 1683px;
+  top: 45.62px;
+  width: 589px;
+  height: 1259.38px;
+}
+
+#arestaurao {
+  position: absolute;
+  left: 0px;
+  top: 548.38px;
+  width: 589px;
+  height: 711px;
+  color: #ffffff;
+  font-family: Afacad;
+  font-size: 52px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#promoverre {
+  position: absolute;
+  left: 68px;
+  top: 348.31px;
+  width: 452px;
+  height: 188px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#a {
+  position: absolute;
+  left: 415px;
+  top: 395.31px;
+  width: 55px;
+  height: 94px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+}
+
+#forestImag {
+  position: absolute;
+  left: 119px;
+  top: 0px;
+  width: 351px;
+  height: 348.09px;
+}
+
+#text01 {
+  position: absolute;
+  left: 112px;
+  top: 1163px;
+  width: 2256px;
+  height: 1177px;
+}
+
+#floods {
+  position: absolute;
+  left: 1607px;
+  top: 44px;
+  width: 649px;
+  height: 865px;
+}
+
+#comoderret {
+  position: absolute;
+  left: 30px;
+  top: 468px;
+  width: 589px;
+  height: 397px;
+  color: #ffffff;
+  font-family: Afacad;
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#cidadesINU {
+  position: absolute;
+  left: 0px;
+  top: 374px;
+  width: 649px;
+  height: 94px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+}
+
+#floodsImag {
+  position: absolute;
+  left: 137px;
+  top: 0px;
+  width: 374px;
+  height: 374px;
+}
+
+#droughts {
+  position: absolute;
+  left: 803px;
+  top: 49px;
+  width: 786px;
+  height: 1128px;
+}
+
+#oaumentoda {
+  position: absolute;
+  left: 0px;
+  top: 464px;
+  width: 786px;
+  height: 664px;
+  color: #ffffff;
+  font-family: Afacad;
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#avidaMORRE {
+  position: absolute;
+  left: 147px;
+  top: 370px;
+  width: 493px;
+  height: 94px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+}
+
+#droughtIma {
+  position: absolute;
+  left: 217px;
+  top: 0px;
+  width: 370px;
+  height: 370px;
+}
+
+#heat {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 674px;
+  height: 952px;
+}
+
+#oaquecimen {
+  position: absolute;
+  left: 0px;
+  top: 513px;
+  width: 674px;
+  height: 439px;
+  color: #ffffff;
+  font-family: Afacad;
+  font-size: 48px;
+  font-weight: 400;
+  text-align: center;
+}
+
+#omundoAQUE {
+  position: absolute;
+  left: 27px;
+  top: 419px;
+  width: 620px;
+  height: 94px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 72px;
+  font-weight: 400;
+  text-align: right;
+}
+
+#greenhouse {
+  position: absolute;
+  left: 128px;
+  top: 0px;
+  width: 419px;
+  height: 419px;
+}
+
+#logo {
+  position: absolute;
+  left: 820px;
+  top: 273px;
+  width: 840px;
+  height: 840px;
+}
+
+#mAUESubtra {
+  position: absolute;
+  left: 2156px;
+  top: 0px;
+  width: 304px;
+  height: 460px;
+}
+
+#title2 {
+  position: absolute;
+  left: 301px;
+  top: 2122px;
+  width: 1813px;
+  height: 188px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 144px;
+  font-weight: 400;
+}
+
+#a {
+  position: absolute;
+  left: 963px;
+  top: 2102px;
+  width: 84.03px;
+  height: 175.79px;
+  transform: rotate(48.999992deg);
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 144px;
+  font-weight: 400;
+}
+
+#title {
+  position: absolute;
+  left: 381px;
+  top: 85px;
+  width: 1718px;
+  height: 188px;
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 144px;
+  font-weight: 400;
+}
+
+#a {
+  position: absolute;
+  left: 1698.81px;
+  top: 45px;
+  width: 84.03px;
+  height: 175.79px;
+  transform: rotate(48.999992deg);
+  color: #ffffff;
+  font-family: "ADLaM Display";
+  font-size: 144px;
+  font-weight: 400;
+}
+
+#maxthelogo {
+  position: absolute;
+  left: 42px;
+  top: 39px;
+  width: 140px;
+  height: 140px;
+}
+
